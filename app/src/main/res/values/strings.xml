@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskTester</string>
+    <string name="tab_text_1">VIDEO</string>
+    <string name="tab_text_2">TIMINGS</string>
+
+    <string name="action_settings">Test Only</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
